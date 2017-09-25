@@ -24,12 +24,13 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
 | Desarrollo de Bots                         | @ajsb85 @AlexR1712 @Zontir                                                                   | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @alexr1712                                                                   | https://t.me/devjuegos                                 |
+| Desarrolladores .ve 🇻🇪 en el  🌎        | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
 | Django                                     | @ebar0n                                                                      | https://t.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                                     | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica                                | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
 | Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
 | E-shops Dev Venezuela                      | @jkhiyami @Alextic @m000_g                                                   | https://t.me/EShopsDevVenezuela                        |
-| Emprendedores Venezolanos                  | @oyeyepez                                                                    | https://t.me/emprendedores_venezolanos                 |
+| Emprendedores Venezolanos                  | @oyepez @oteroweb                                                            | https://t.me/emprendedores_venezolanos                 |
 | Firebase Venezuela                         | @villanuevand - @jobsamuel                                                   | https://t.me/firebaseVe                                |
 | Fotografía                                 | @davidhdz                                                                    | https://t.me/fotografico                               |
 | FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
